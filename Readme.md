@@ -1,0 +1,1 @@
+Creating a SQL database using Rust to take advantage of Rust's memory safety, fast performance, safe concurrency, type safety features
